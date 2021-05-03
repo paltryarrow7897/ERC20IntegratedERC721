@@ -2,7 +2,7 @@
 
 There are two contracts: 
   ERC20.sol which creates RCED tokens, and
-  ERC721.sol which created CRPTCF tokens.
+  ERC721.sol which creates CRPTCF tokens.
   
 Steps to deploy both contracts on Remix and MetaMask:
 
